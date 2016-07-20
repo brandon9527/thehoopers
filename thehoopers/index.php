@@ -279,17 +279,10 @@
 									<div class="program program-schedule">
 										<img src="images/spalding.png" alt="spalding">
 										<small>Top Spalding's ball Model</small>
-										<h2>HyperRev 2016</h2>
+										<h2>Spalding Never Flat</h2>
 									</div>
 								</div>
 								
-								<div class="col-md-3 col-sm-6">
-									<div class="program program-schedule">
-										<img src="images/spalding.png" alt="spalding">
-										<small>Top Spalding's ball Model</small>
-										<h2>HyperDunk 2016</h2>
-									</div>
-								</div>
 							</div>
 						</div>
 					</div>
