@@ -22,7 +22,7 @@
 				<form action="" method="post">
 					<div class="row">
 						<div class="col-md-6 animate-box">
-							<h3 class="section-title">Our Email Address</h3>
+							<h3 class="section-title">Our contact details</h3>
 							<ul class="contact-info">
 								<li>
 									<i class="icon-envelope"></i>
