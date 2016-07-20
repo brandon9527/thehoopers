@@ -31,7 +31,7 @@
 			else{
 				$msg = "<div class = 'alert alert-danger'>
 							<span class='glyphicon glyphicon-info-sign'></span> 
-							&nbsp; Username or email invalid
+							&nbsp; Username or password invalid
 						<div>";
 			}
 			$con->close();
